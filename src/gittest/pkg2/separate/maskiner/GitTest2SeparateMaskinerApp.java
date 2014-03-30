@@ -19,8 +19,8 @@ public class GitTest2SeparateMaskinerApp
     public static void main(String[] args)
     {
         System.out.println("Stationær 1 - ændret");
-        System.out.println("Lærer 1 - ændret - ændret");
-        System.out.println("Stationær 2");
+        System.out.println("Lærer 1");
+        System.out.println("Stationær 2 - ændret");
         System.out.println("Lærer 2");
         System.out.println("lærer 3");
     }
