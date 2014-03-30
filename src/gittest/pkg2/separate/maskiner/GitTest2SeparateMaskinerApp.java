@@ -19,6 +19,7 @@ public class GitTest2SeparateMaskinerApp
     public static void main(String[] args)
     {
         System.out.println("Hej 1");
+        System.out.println("Lærer 1");
     }
     
 }
