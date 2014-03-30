@@ -24,6 +24,7 @@ public class GitTest2SeparateMaskinerApp
         System.out.println("Lærer 2");
         System.out.println("lærer 3 - ændret - igen");
         System.out.println("stationær 3");
+        System.out.println("John");
     }
     
 }
