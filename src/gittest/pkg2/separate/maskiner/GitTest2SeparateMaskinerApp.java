@@ -21,7 +21,7 @@ public class GitTest2SeparateMaskinerApp
         System.out.println("Stationær 1");
         System.out.println("Lærer 1");
         System.out.println("Stationær 2");
-        System.out.println("skal slettes fra stationær 2");
+        System.out.println("Lærer 2");
     }
     
 }
