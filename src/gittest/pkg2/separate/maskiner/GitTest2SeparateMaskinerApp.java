@@ -26,6 +26,8 @@ public class GitTest2SeparateMaskinerApp
         System.out.println("stationær 3");
         System.out.println("John");
         System.out.println("Stationær John");
+        
+        System.out.println("Stationær mary");
     }
     
 }
